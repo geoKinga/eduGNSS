@@ -7,4 +7,4 @@ You can find here:
 + modul for date convertion
 
 
-
+$\alpha = frac{\sigma}{\Delta}$
